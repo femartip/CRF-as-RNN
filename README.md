@@ -11,6 +11,7 @@ This repository contains a review of the paper "Conditional Random Feilds as Rec
 ## Installation
 
 The project is intended to be used in Google Colab. For this, either download the folder itself and upload it to Google Drive, or create a new notebook and clone the repository.
+Download the model weights from [here](https://github.com/sadeepj/crfasrnn_pytorch/releases/download/0.0.1/crfasrnn_weights.pth) and place it in the `crfasrnn_pytorch` directory with the file name `crfasrnn_weights.pth`.
 
 ## Usage
 
